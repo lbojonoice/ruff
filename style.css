@@ -1,0 +1,32 @@
+center
+{
+    position: fixed;
+    background-color:black;
+    color: white;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(200, 200, 200);
+    font-size:20px;
+    line-height:5;
+}
+
+body
+{
+        background-image: linear-gradient(rgb(0, 0, 0), rgb(5, 128, 150), rgb(171, 186, 192),  rgb(5, 128, 150), rgb(0, 0, 0));
+    color: white;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color:black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(200, 200, 200);
+    font-size:20px;
+    line-height:1;
+}
